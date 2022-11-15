@@ -1,4 +1,5 @@
 #email slicer
+#there is many way to create this but this is a very easy to create
 
 email = input("Enter Your Email: ").strip()
 username = email[:email.index('@')]
