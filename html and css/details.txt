@@ -1,0 +1,22 @@
+✓ like this we call html entity and we can search 
+    code for this on google.
+
+
+when we notice that we are using smae style for all html
+file in css then we can create onlye one p{
+    style 
+} then it will apply for all default .
+example we are using font-family:arial; in all css so 
+we can just write only once like p {
+    font-family:arial; 
+}....thats it
+remember p belongs to p eliment so only p eliment will 
+change not other.
+
+
+whenever if our file is on folder so we have to name of folder
+than file name like foldrname/filename.css
+
+
+we can also link lots of font family like css file in our 
+html file on Goole Fonts : <link rel="Preconnect" href="goolgle font link" 
