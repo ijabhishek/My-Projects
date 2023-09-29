@@ -1,0 +1,2 @@
+urtle.onscreenclick(get_mouse_click_cordinates)
+turtle.mainloop
